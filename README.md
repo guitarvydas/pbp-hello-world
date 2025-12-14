@@ -7,6 +7,12 @@
 
 see accompanying video ???, if you wish
 
+## usage:
+`make init` in top directory
+`cd seq` `make` to run sequential version
+`cd par` `make` to run parallel, unordered version
+`cd ordered` `make` to run parallel, ordered version
+
 
 ## setup
 [x] go to https://github.com/guitarvydas/pbp-kit and choose "Use This Template"
