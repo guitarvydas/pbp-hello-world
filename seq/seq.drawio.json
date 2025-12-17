@@ -69,6 +69,11 @@
           "name": "World",
           "id": 9
         }
+      },
+      {
+        "dir": 3,
+        "source_port": "",
+        "target_port": ""
       }
     ],
     "file": "seq.drawio"
